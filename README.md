@@ -1,27 +1,34 @@
-# FlashFlow
+# FlashFlow 📚
 
 Aplicação de flashcards desenvolvida com HTML, CSS e JavaScript para praticar e revisar conceitos de programação.
 
-## Funcionalidades
+## 🖥️ Demonstração
 
-- Exibição de cinco flashcards sobre JavaScript.
-- Clique no card para revelar a resposta.
-- Botão para avançar para o próximo card.
-- Contador dinâmico para acompanhar o card atual.
-- Navegação cíclica entre os flashcards.
+![Uploading image.png…]()
 
-## Tecnologias utilizadas
+## 🎨 Design
+
+Interface desenvolvida com base no design de referência do [Figma](https://www.figma.com/design/NGiTEz7BNtV35yPJa2cC4a/Flash-Flow--Community-?node-id=0-1&p=f&t=aH4JURzBbOuxMild-0), respeitando sua proposta visual.
+
+## 🛠️ Tecnologias
 
 - HTML5
 - CSS3
-- JavaScript
+- JavaScript puro, sem frameworks ou bibliotecas JavaScript.
 
-## Como executar
+## ✨ Funcionalidades
 
-1. Clone ou baixe este repositório.
-2. Abra o arquivo `index.html` no navegador.
-3. Clique nos flashcards para visualizar as respostas.
+- Cinco flashcards sobre JavaScript.
+- Revelação das respostas ao clicar nos cards.
+- Navegação entre os cards.
+- Contador dinâmico.
 
-## Objetivo
+## 🚀 Como executar
 
-Projeto desenvolvido como atividade prática da pós-graduação em Desenvolvimento de Sistemas da Rocketseat.
+Abra o arquivo `index.html` em um navegador.
+
+## 🎯 Objetivo educacional
+
+Praticar os fundamentos de HTML, CSS e JavaScript, desenvolvendo uma interface interativa a partir de uma referência visual e organizando o código em arquivos separados.
+
+Desenvolvido como parte da pós-graduação em Desenvolvimento de Sistemas da Rocketseat.
