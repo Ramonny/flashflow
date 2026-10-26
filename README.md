@@ -4,7 +4,7 @@ Aplicação de flashcards desenvolvida com HTML, CSS e JavaScript para praticar 
 
 ## 🖥️ Demonstração
 
-![Uploading image.png…]()
+<img width="392" height="511" alt="Screenshot_2" src="https://github.com/user-attachments/assets/c2a0c9c0-71fe-4ffe-9e39-116a7e755abd" />
 
 ## 🎨 Design
 
